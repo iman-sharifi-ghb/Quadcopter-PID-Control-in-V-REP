@@ -19,3 +19,6 @@ In this file your python IDE will be connected to CoppeliSim if not
 5- PID gains have been tuned. if you are not satistied with results, try to change the gains in your way.
 
 6- Enjoy!
+
+Reference:
+[link](https://github.com/kanishkaganguly/VREPQuadcopter)
