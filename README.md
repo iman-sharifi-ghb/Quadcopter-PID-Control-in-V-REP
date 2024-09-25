@@ -1,4 +1,4 @@
-# 6DoF-4motor-Robot-PID-Control-in-V-REP
+# Quadcopter-PID-Control-in-V-REP
 
 # How to Run:
 
